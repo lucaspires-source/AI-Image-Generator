@@ -4,7 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images : {
-    domains:['seeklogo.com']
+    domains:['seeklogo.com', 'github.githubassets.com','cdn-icons-png.flaticon.com' ]
   }
 }
 
